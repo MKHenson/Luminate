@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SolutionPreferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <useAutoComplete>true</useAutoComplete>
+  <browser>C:\Program Files (x86)\Mozilla Firefox\firefox.exe</browser>
+  <additionalKeywords>
+    <string>jQuery</string>
+    <string>animate</string>
+    <string>document</string>
+    <string>window</string>
+    <string>append</string>
+    <string>prepend</string>
+    <string>ready</string>
+  </additionalKeywords>
+  <project>SingleChoice</project>
+</SolutionPreferences>

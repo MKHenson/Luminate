@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ScintillaNET>
+
+  <Language Name="css">
+    <Indentation TabWidth="4" UseTabs="true"/>
+    <Lexer StreamCommentPrefix="/*" StreamCommentSuffix="*/" >
+      <Keywords List="0">var</Keywords>
+      <Keywords List="1">string</Keywords>
+    </Lexer>
+    <Styles Inherit="True">
+      <Style Name="COMMENT" ForeColor="Green" />
+      <Style Name="DOUBLESTRING" ForeColor="Red" />
+      <Style Name="SINGLESTRING" ForeColor="Red" />
+      <Style Name="TAG" ForeColor="Blue" />
+      <Style Name="CLASS" ForeColor="Red" />
+      <Style Name="PSEUDOCLASS" ForeColor="Red" />
+      <Style Name="UNKNOWN_PSEUDOCLASS" ForeColor="Blue" />
+      <Style Name="IDENTIFIER" ForeColor="CornflowerBlue" Bold="Yes"/>
+      <Style Name="UNKNOWN_IDENTIFIER" ForeColor="CornflowerBlue" Bold="Yes"/>
+      <Style Name="ID" ForeColor="Blue" Bold="Yes" />
+      <Style Name="IMPORTANT" ForeColor="Red" Bold="Yes"/>
+      <Style Name="IDENTIFIER2" ForeColor="CornflowerBlue" Bold="Yes"/>
+      <Style Name="ATTRIBUTE" ForeColor="Teal" Bold="Yes"/>
+      <Style Name="VALUE" ForeColor="Black" />
+      <Style Name="DOCUMENT_DEFAULT" ForeColor="Black" />
+    </Styles>
+    
+
+  </Language>
+</ScintillaNET>

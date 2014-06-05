@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SolutionPreferences xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <useAutoComplete>true</useAutoComplete>
+  <browser>C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE</browser>
+  <additionalKeywords>
+    <string>jQuery</string>
+    <string>width</string>
+    <string>height</string>
+    <string>css</string>
+    <string>dispose</string>
+    <string>Component</string>
+    <string>Behavior</string>
+    <string>Canvas</string>
+    <string>Button</string>
+    <string>Label</string>
+    <string>text</string>
+    <string>html</string>
+    <string>margin</string>
+    <string>parent</string>
+    <string>top</string>
+    <string>bottom</string>
+    <string>left</string>
+    <string>right</string>
+    <string>element</string>
+    <string>padding</string>
+    <string>absolute</string>
+    <string>float</string>
+    <string>left</string>
+    <string>right</string>
+    <string>startDrag</string>
+    <string>mousedown</string>
+    <string>mouseenter</string>
+    <string>click</string>
+    <string>append</string>
+    <string>prepend</string>
+    <string>detach</string>
+    <string>bind</string>
+    <string>unbind</string>
+    <string>test</string>
+    <string>test2</string>
+  </additionalKeywords>
+  <project />
+</SolutionPreferences>
